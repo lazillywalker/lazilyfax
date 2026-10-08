@@ -1,8 +1,8 @@
 {
   "product": "LazilyFAX",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "languages": ["en", "ja", "ko"],
-  "update_available": true,
-  "download_url": "http://127.0.0.1:8000/lazilyfax-test-update-1.4.0.zip",
-  "sha256": "e9d0e2c33554febf9ef832376fd454db6a496e39a0d60b9abe250bc1dc6b3059"
+  "update_available": false,
+  "download_url": "",
+  "sha256": ""
 }
