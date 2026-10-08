@@ -1,6 +1,6 @@
 {
   "product": "LazilyFAX",
   "version": "1.4.0",
-  "languages": ["en", "ja", "ko"],
-  "update_available": true
+  "download_url": "...",
+  "sha256": "..."
 }
