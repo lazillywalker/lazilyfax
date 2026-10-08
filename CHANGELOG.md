@@ -46,7 +46,13 @@ Initial release.
 
 - Added Korean language selection support
 
-- ## Planned
+---
+
+## Planned
+
+### v1.2.0
+
+- Update checking through GitHub
 
 ---
 
