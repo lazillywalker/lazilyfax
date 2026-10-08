@@ -34,9 +34,22 @@ Initial release.
 
 ---
 
-## Planned
+## v1.1.0
 
-### v1.1.0
+### Added
 
 - Korean language support
+- Korean interface for FAX Phonebook
+- Korean interface for FAX Transmission History
+
+### Changed
+
+- Added Korean language selection support
+
+- ## Planned
+
+---
+
+### v1.2.0
+
 - Update checking through GitHub
