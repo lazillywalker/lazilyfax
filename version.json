@@ -12,6 +12,6 @@
   "base_versions": [
     "2.0.0-1~rc6.3"
   ],
-  "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.3-to-rc6.4.zip",
-  "sha256": "59b01550f48749ce867a8836fd5aa350d40b09bb5e9e1febfdc639d8a893bccf"
+  "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.3-to-rc6.4-r2.zip",
+  "sha256": "10a81c55716a7f16c152f08a54adc354ccf835c06ac6b51d4271169876e2a798"
 }
