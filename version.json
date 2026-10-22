@@ -15,7 +15,7 @@
   "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.4-to-rc6.5.zip",
   "sha256": "25791c8429fa45808b93166e46cb46d67bc00360e821511ea529e15e3496262e",
   "catalog_version": 1,
-  "latest_package_version": "2.0.0-1~rc6.7",
+  "latest_package_version": "2.0.0-1~rc6.8",
   "patches": [
     {
       "format": "lazilyfax-delta-v1",
@@ -44,6 +44,13 @@
       "package_version": "2.0.0-1~rc6.7",
       "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.6-to-rc6.7.zip",
       "sha256": "0e1be34de0f7d9e753e7d1067b596f666185dfcba68235ed581133df0d2815b1"
+    },
+    {
+      "format": "lazilyfax-delta-v1",
+      "base_version": "2.0.0-1~rc6.7",
+      "package_version": "2.0.0-1~rc6.8",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.7-to-rc6.8.zip",
+      "sha256": "782fa2c2c3f3f996616a78bbb47a744dac8c4c5201906f065543baf45f8b2dd7"
     }
   ]
 }
