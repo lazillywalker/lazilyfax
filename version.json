@@ -1,8 +1,17 @@
 {
   "product": "LazilyFAX",
-  "version": "1.5.0",
-  "languages": ["en", "ja", "ko"],
-  "update_available": false,
-  "download_url": "",
-  "sha256": ""
+  "version": "2.0.0-rc6.4",
+  "package_version": "2.0.0-1~rc6.4",
+  "languages": [
+    "en",
+    "ja",
+    "ko"
+  ],
+  "update_available": true,
+  "format": "lazilyfax-delta-v1",
+  "base_versions": [
+    "2.0.0-1~rc6.3"
+  ],
+  "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.3-to-rc6.4.zip",
+  "sha256": "59b01550f48749ce867a8836fd5aa350d40b09bb5e9e1febfdc639d8a893bccf"
 }
