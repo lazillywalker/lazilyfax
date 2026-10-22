@@ -1,7 +1,7 @@
 {
   "product": "LazilyFAX",
-  "version": "2.0.0-rc6.4",
-  "package_version": "2.0.0-1~rc6.4",
+  "version": "2.0.0-rc6.5",
+  "package_version": "2.0.0-1~rc6.5",
   "languages": [
     "en",
     "ja",
@@ -10,8 +10,40 @@
   "update_available": true,
   "format": "lazilyfax-delta-v1",
   "base_versions": [
-    "2.0.0-1~rc6.3"
+    "2.0.0-1~rc6.4"
   ],
-  "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.3-to-rc6.4-r2.zip",
-  "sha256": "10a81c55716a7f16c152f08a54adc354ccf835c06ac6b51d4271169876e2a798"
+  "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.4-to-rc6.5.zip",
+  "sha256": "25791c8429fa45808b93166e46cb46d67bc00360e821511ea529e15e3496262e",
+  "catalog_version": 1,
+  "latest_package_version": "2.0.0-1~rc6.7",
+  "patches": [
+    {
+      "format": "lazilyfax-delta-v1",
+      "package_version": "2.0.0-1~rc6.4",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.3-to-rc6.4-r2.zip",
+      "sha256": "10a81c55716a7f16c152f08a54adc354ccf835c06ac6b51d4271169876e2a798",
+      "base_version": "2.0.0-1~rc6.3"
+    },
+    {
+      "format": "lazilyfax-delta-v1",
+      "base_version": "2.0.0-1~rc6.4",
+      "package_version": "2.0.0-1~rc6.5",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.4-to-rc6.5.zip",
+      "sha256": "25791c8429fa45808b93166e46cb46d67bc00360e821511ea529e15e3496262e"
+    },
+    {
+      "format": "lazilyfax-delta-v1",
+      "base_version": "2.0.0-1~rc6.5",
+      "package_version": "2.0.0-1~rc6.6",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.5-to-rc6.6.zip",
+      "sha256": "ae0c097d1debf917a9981cf262fef75db535245022eb352033332229e3776a7b"
+    },
+    {
+      "format": "lazilyfax-delta-v1",
+      "base_version": "2.0.0-1~rc6.6",
+      "package_version": "2.0.0-1~rc6.7",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-rc6.6-to-rc6.7.zip",
+      "sha256": "0e1be34de0f7d9e753e7d1067b596f666185dfcba68235ed581133df0d2815b1"
+    }
+  ]
 }
