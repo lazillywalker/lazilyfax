@@ -1,0 +1,43 @@
+{
+  "product": "LazilyFAX",
+  "version": "2.0.0",
+  "package_version": "2.0.0-3",
+  "languages": [
+    "ja",
+    "en",
+    "ko",
+    "de"
+  ],
+  "update_available": true,
+  "format": "lazilyfax-delta-v1",
+  "base_versions": [
+    "2.0.0-1~release.fr1.2"
+  ],
+  "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-fr1.2-to-2.0.0-3.zip",
+  "sha256": "38969efea44889e18e7fd5164ade55f4c678f80d74b2da924ec21456a2d496f6",
+  "catalog_version": 1,
+  "latest_package_version": "2.0.0-3",
+  "patches": [
+    {
+      "format": "lazilyfax-delta-v1",
+      "base_version": "2.0.0-1~release.fr1.2",
+      "package_version": "2.0.0-3",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-fr1.2-to-2.0.0-3.zip",
+      "sha256": "38969efea44889e18e7fd5164ade55f4c678f80d74b2da924ec21456a2d496f6"
+    },
+    {
+      "format": "lazilyfax-delta-v1",
+      "base_version": "2.0.0-1",
+      "package_version": "2.0.0-3",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-2.0.0-1-to-2.0.0-3.zip",
+      "sha256": "852eec3177068f5c3bc5237ed0abf1898b968704a315738fa2e6a44f18fcc4f6"
+    },
+    {
+      "format": "lazilyfax-delta-v1",
+      "base_version": "2.0.0-2",
+      "package_version": "2.0.0-3",
+      "download_url": "https://raw.githubusercontent.com/lazillywalker/lazilyfax/main/updates/lazilyfax-2.0.0-2-to-2.0.0-3.zip",
+      "sha256": "5b0f54d4841aa81b75e23486d654a4c291d05518a1eb7ef8982e8bf0b2f4bc0a"
+    }
+  ]
+}

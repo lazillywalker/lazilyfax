@@ -1,0 +1,44 @@
+{
+  "lazilyfax-fr1.2-to-2.0.0-3.zip": [
+    {
+      "path": "payload/usr/lib/lazilyfax/header_gui.py",
+      "bytes": 8090
+    },
+    {
+      "path": "payload/usr/lib/lazilyfax/phonebook_gui.py",
+      "bytes": 8970
+    },
+    {
+      "path": "payload/usr/share/doc/lazilyfax/DISTRIBUTION-NOTES.txt",
+      "bytes": 2039
+    },
+    {
+      "path": "payload/usr/share/doc/lazilyfax/manual_ko.pdf",
+      "bytes": 3128316
+    }
+  ],
+  "lazilyfax-2.0.0-1-to-2.0.0-3.zip": [
+    {
+      "path": "payload/usr/lib/lazilyfax/header_gui.py",
+      "bytes": 8090
+    },
+    {
+      "path": "payload/usr/lib/lazilyfax/phonebook_gui.py",
+      "bytes": 8970
+    },
+    {
+      "path": "payload/usr/share/doc/lazilyfax/DISTRIBUTION-NOTES.txt",
+      "bytes": 2039
+    }
+  ],
+  "lazilyfax-2.0.0-2-to-2.0.0-3.zip": [
+    {
+      "path": "payload/usr/lib/lazilyfax/header_gui.py",
+      "bytes": 8090
+    },
+    {
+      "path": "payload/usr/share/doc/lazilyfax/DISTRIBUTION-NOTES.txt",
+      "bytes": 2039
+    }
+  ]
+}

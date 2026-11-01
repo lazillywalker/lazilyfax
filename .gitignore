@@ -1,0 +1,18 @@
+# Public repository: exclude complete paid packages and local build material.
+*.deb
+work/
+outputs/
+backups/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*private*.pem
+license.json
+*.sqlite
+*.sqlite3
+*.db
+*.log
+# This is a secondary guard; review each staged file before publication.
