@@ -1,0 +1,20 @@
+[
+  {
+    "base": "2.0.0-1~release.fr1.2",
+    "target": "2.0.0-3",
+    "rebuild_files_and_modes_match": true,
+    "tampered_hash_rejected": true
+  },
+  {
+    "base": "2.0.0-1",
+    "target": "2.0.0-3",
+    "rebuild_files_and_modes_match": true,
+    "tampered_hash_rejected": true
+  },
+  {
+    "base": "2.0.0-2",
+    "target": "2.0.0-3",
+    "rebuild_files_and_modes_match": true,
+    "tampered_hash_rejected": true
+  }
+]
