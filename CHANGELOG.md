@@ -1,6 +1,43 @@
 # LazilyFAX Changelog
 
-## v2.0.0 — 2026-11-01
+## v2.0.0 — Gumroad edition, package 2.0.0-19 — 2026-11-10
+
+### Added
+
+- Purchase email and Gumroad license key registration, with persistent storage and a four-language registration interface.
+- Online purchase verification for updates. Unregistered, invalid, mismatched, revoked or refunded purchases cannot authorize updates.
+- Separate export and restoration of registration information (`.lfaxlicense`).
+- Four-language registration, update and registration backup instructions.
+
+### Updates and Compatibility
+
+- Enabled delta updates from `2.0.0-18` and `2.0.0-19~gumroad1` to `2.0.0-19`. Earlier packages require the complete purchaser DEB.
+- Initial migration from package 2.0.0-18 uses its existing updater; purchase verification applies to subsequent updates in the Gumroad edition.
+- FAX sending, receiving and answering machine processing are preserved and do not require this update registration.
+- Purchase verification failures retain saved registration information for retry.
+
+### Validation
+
+- 45 automated license-related tests passed.
+- Live API checks confirmed test-purchase verification, rejection after license disabling, and recovery after re-enabling.
+- Both delta routes rebuilt to the expected package contents and file modes; published downloads matched their expected hashes.
+- Isolated APT upgrade checks preserved synthetic settings and data. User-reported hardware checks confirmed sending, receiving, PDF viewing, standby recovery and answering machine operation.
+
+### 日本語
+
+Gumroad販売版のDEB内部管理番号を `2.0.0-19` としました。
+
+- 購入メールとライセンスキーの登録・永続保存、4言語の登録画面を追加。
+- 更新時に購入状態を照合し、未登録・無効・不一致・取消・返金済みの購入による更新を拒否。
+- 登録情報をFAXデータとは別ファイルで保存・復元する機能と、4言語の補足手順を追加。
+- 2.0.0-18／開発版2.0.0-19~gumroad1からの差分更新を公開・有効化。それ以前の版は完全DEBで導入。
+- FAX送受信・留守番電話の処理は維持し、この更新用のライセンス登録を利用条件にしていません。
+
+---
+
+## v2.0.0 — package 2.0.0-10 — 2026-11-01 (historical release)
+
+The update status described in this entry is historical; see the latest entry above for current availability.
 
 Final release baseline. Product version: `2.0.0`; Debian package version: `2.0.0-10` (amd64).
 
