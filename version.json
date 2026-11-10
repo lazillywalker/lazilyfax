@@ -11,7 +11,7 @@
   ],
   "format": "lazilyfax-delta-v1",
   "catalog_version": 1,
-  "update_available": false,
+  "update_available": true,
   "patches": [
     {
       "format": "lazilyfax-delta-v1",
